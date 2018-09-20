@@ -12,7 +12,7 @@ int main ()
 	char bits[256];
 	
 	printf ("Digite um numero: ");
-	scanf ("%s",&bits);
+	scanf ("%s",bits);
 	for (i=0; bits[i]!='\0';i++)
 	{
 		if (estado == 0 && bits[i] == '0')
