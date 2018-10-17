@@ -61,7 +61,7 @@ void binhex()
 		x = 1;
 		b--;
         }
-	  printf("\Numero hexadecimal: = %x", hex);
+	  printf("\nNumero hexadecimal: = %x", hex);
 }
 void hexdec()
 {
