@@ -35,7 +35,7 @@ int main()
 {
 	unsigned int N;
 	Ponto * p;
-	printf("Entre com o numero de pontos:: ");
+	printf("Entre com o numero de pontos: ");
 	scanf("%d",&N);
 	getchar();
 	p = gerap(N);
